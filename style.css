@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lato|Oswald|Quicksand');
+
+
+body {
+  background-color: #2C3E50;
+}
+
+h1 {
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  margin-top: 20px;
+  text-shadow: -4px 4px 2px rgba(50, 50, 50, 0.75);
+  font-size: 4em;
+  color: #ECF0F1;
+
+}
+
+p {
+  color: #ECF0F1;
+  font-style: italic;
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+  text-shadow: -4px 1.5px 1px rgba(50, 50, 50, 0.75);
+}
+
+.btn {
+  margin-top: 20px;
+  border: 1px solid #263545;
+  background-color: #34495E;
+  color: white;
+  box-shadow: -4px 4px 3px 0px rgba(50, 50, 50, 0.75);
+}
+
+.quotes {
+  width: 33%;
+  margin-right: auto;
+  margin-left: auto;
+  border: 50px groove #263545;
+  border-radius: 5px;
+  padding: 20px;
+  height: auto;
+  color: white;
+  background-color: #1D2A36;
+  box-shadow:-7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+
+}
+
+.quote {
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;;
+}
+
+.author {
+  font-size: 15px;
+  font-style: italic;
+}
+#tweet {
+  box-shadow: -1px 4px 3px 0px rgba(50, 50, 50, 0.75);
+}
